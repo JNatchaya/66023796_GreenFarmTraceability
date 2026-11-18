@@ -2,7 +2,7 @@
 
 เว็บ React + Vite + TypeScript สำหรับติดตามล็อตสินค้าจากสัญญาใน `contracts/GreenFarmTraceability.sol` ใช้ viem อ่านข้อมูลผ่าน Infura และให้ MetaMask ยืนยันธุรกรรมบน Sepolia
 
-[เปิดเว็บ GreenFarm Traceability](https://jnatchaya.github.io/66023796_GreenFarmTraceability/) แล้วค้นหา `GF-TEST-001` เพื่อดูล็อตที่ใช้ในการทดสอบด้านล่าง
+[เปิดเว็บ GreenFarm Traceability](https://jnatchaya.github.io/66023796_GreenFarmTraceability/) แล้วกด **ค้นหาล็อต** เพื่อดู `GF-TEST-001` ที่กรอกไว้ให้แล้ว
 
 ## รันในเครื่อง
 

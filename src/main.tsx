@@ -82,7 +82,7 @@ function callFor(operation: Operation, data: FormData, id: string): ActionCall {
 }
 
 function App() {
-  const [query, setQuery] = useState(live ? '' : 'GF-2026-001')
+  const [query, setQuery] = useState(live ? 'GF-TEST-001' : 'GF-2026-001')
   const [result, setResult] = useState(live ? null : { id: 'GF-2026-001', batch: sample, count: 3n })
   const [entries, setEntries] = useState(live ? [] : sampleHistory)
   const [searching, setSearching] = useState(false)
